@@ -17,7 +17,7 @@ Sharing a script and how I used the script
 
 - Windows 10</b> (21H2)
 
-<h2>Lifecycle Stages</h2>
+<h2>Script & Powershell</h2>
 
 <p>
 
