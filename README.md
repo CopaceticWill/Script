@@ -25,6 +25,7 @@ Sharing a script and how I used the script
 </p>
 <p>
 This image shows the script running and providing us with the user number I asked for (100)
+
   - On DC-1 (Domain Controller) 
     - Open Powershell ISE as an _Administrator_
   - Create a new file and paste the script 
